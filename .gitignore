@@ -1,0 +1,13 @@
+# Each item listed in this file will be ignored by git
+# and will not be uploaded to github. The blank lines
+# and comments are unnecessary, but included for 
+# clarification.
+node_modules
+
+.env
+
+**/.DS_Store
+
+# Degugging config file
+.vscode
+.vscode/*
